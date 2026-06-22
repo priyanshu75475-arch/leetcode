@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshu75475-arch/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/priyanshu75475-arch/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshu75475-arch/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/priyanshu75475-arch/leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/priyanshu75475-arch/leetcode/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/priyanshu75475-arch/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
