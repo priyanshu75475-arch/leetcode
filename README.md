@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/priyanshu75475-arch/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/priyanshu75475-arch/leetcode/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/priyanshu75475-arch/leetcode/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/priyanshu75475-arch/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu75475-arch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/priyanshu75475-arch/leetcode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/priyanshu75475-arch/leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
