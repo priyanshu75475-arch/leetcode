@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/priyanshu75475-arch/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/priyanshu75475-arch/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/priyanshu75475-arch/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu75475-arch/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/priyanshu75475-arch/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/priyanshu75475-arch/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshu75475-arch/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/priyanshu75475-arch/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshu75475-arch/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyanshu75475-arch/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/priyanshu75475-arch/leetcode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/priyanshu75475-arch/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -57,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshu75475-arch/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshu75475-arch/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyanshu75475-arch/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu75475-arch/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/priyanshu75475-arch/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
